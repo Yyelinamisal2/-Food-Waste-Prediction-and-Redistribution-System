@@ -1,0 +1,6 @@
+{
+  "name": "Food Waste Prediction & Redistribution System",
+  "description": "An AI-powered system that predicts surplus food waste, estimates shelf-life, and optimizes donor-to-charity redirection to minimize waste.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
